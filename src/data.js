@@ -84,6 +84,74 @@ const texasCounties = `
             "County Treasurer": "Sherri Gamblin"
         },
         "commissioner_court_minutes": "http://www.co.archer.tx.us/page/archer.Commissioners.Court"
+    },
+    {
+        "name": "Armstrong County",
+        "location": "Claude, TX",
+        "courthouse_address": "100 Trice St, Claude, TX 79019",
+        "website": "http://www.co.armstrong.tx.us/",
+        "appraisal_district_office_address": "100 Trice St, Claude, TX 79019",
+        "registration_office_address": "100 Trice St, Claude, TX 79019",
+        "local_municipality": "City of Claude",
+        "elected_officials": {
+            "County Judge": "Hugh Reed",
+            "Sheriff": "Melissa Anderson",
+            "District Clerk": "Sherry Edwards",
+            "County Clerk": "Tina Craig",
+            "County Treasurer": "Janelle Shepherd"
+        },
+        "commissioner_court_minutes": "http://www.co.armstrong.tx.us/page/armstrong.Commissioners.Court"
+    },
+    {
+        "name": "Atascosa County",
+        "location": "Jourdanton, TX",
+        "courthouse_address": "1 Courthouse Circle Dr, Jourdanton, TX 78026",
+        "website": "http://www.atascosacounty.texas.gov/",
+        "appraisal_district_office_address": "624 N Main St, Pleasanton, TX 78064",
+        "registration_office_address": "1 Courthouse Circle Dr, Jourdanton, TX 78026",
+        "local_municipality": "City of Jourdanton",
+        "elected_officials": {
+            "County Judge": "Robert Hurley",
+            "Sheriff": "David Soward",
+            "District Clerk": "Nicole Vielma",
+            "County Clerk": "Pauline Resendez",
+            "County Treasurer": "Laura Pawelek"
+        },
+        "commissioner_court_minutes": "http://www.atascosacounty.texas.gov/page/atascosa.Commissioners.Court"
+    },
+    {
+        "name": "Austin County",
+        "location": "Bellville, TX",
+        "courthouse_address": "1 E Main St, Bellville, TX 77418",
+        "website": "http://www.austincounty.com/",
+        "appraisal_district_office_address": "906 E Amelia St, Bellville, TX 77418",
+        "registration_office_address": "1 E Main St, Bellville, TX 77418",
+        "local_municipality": "City of Bellville",
+        "elected_officials": {
+            "County Judge": "Tim Lapham",
+            "Sheriff": "Jack Brandes",
+            "District Clerk": "Rhonda Spiess",
+            "County Clerk": "Carrie Gregor",
+            "County Treasurer": "Katherine Henson"
+        },
+        "commissioner_court_minutes": "http://www.austincounty.com/page/austin.Commissioners.Court"
+    },
+    {
+        "name": "Bailey County",
+        "location": "Muleshoe, TX",
+        "courthouse_address": "300 S 1st St, Muleshoe, TX 79347",
+        "website": "http://www.co.bailey.tx.us/",
+        "appraisal_district_office_address": "300 S 1st St, Muleshoe, TX 79347",
+        "registration_office_address": "300 S 1st St, Muleshoe, TX 79347",
+        "local_municipality": "City of Muleshoe",
+        "elected_officials": {
+            "County Judge": "Sherri Harrison",
+            "Sheriff": "Richard Wills",
+            "District Clerk": "Rebecca Tubbs",
+            "County Clerk": "Paula Butler",
+            "County Treasurer": "Leigh Ann Powell"
+        },
+        "commissioner_court_minutes": "http://www.co.bailey.tx.us/page/bailey.Commissioners.Court"
     }
 ]
 `;
