@@ -67,7 +67,7 @@ const App = () => {
             >
               {county.commissioner_court_minutes}
             </a>
-            <p>****</p>
+            <p className="pee">*</p>
           </li>
         ))}
       </ul>
